@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/{{your_username}}/thenkky/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thenkky/thenkky/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **thenkky/thenkky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
